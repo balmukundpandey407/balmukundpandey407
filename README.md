@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm BAMUKUND PANDEY</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [To-Do-API](https://github.com/balmukundpandey407/To-Do-api)
+##I’m currently working on [To-Do-API](https://github.com/balmukundpandey407/To-Do-api)
   
-- I'm Currently Learning
+## I'm Currently Learning
 - Python backend development
 - FastAPI
 - PostgreSQL & databases
 - DSA in cpp
   
-- My Tech Stack
+##My Tech Stack
 - Python
 - C++
 - FastAPI
 - PostgreSQL
 - Git & GitHub
-- 
-- 📫 How to reach me **balmukundpandey407@gmail.com**
+
+## 📫 How to reach me **balmukundpandey407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
