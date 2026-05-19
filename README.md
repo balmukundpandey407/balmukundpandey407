@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**balmukundpandey407/balmukundpandey407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Balmukund Pandey a Backend development learner focused on building applications with Python and FastAPI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python backend development
+- FastAPI
+- SQL & databases
+- DSA in cpp
+  
+## Tech Stack
+- Python
+- C++
+- FastAPI
+- PostgreSQL
+- Git & GitHub
