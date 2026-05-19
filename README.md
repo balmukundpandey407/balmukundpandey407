@@ -26,6 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balmukundpandey407&" alt="balmukundpandey407" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balmukundpandey407&background=000000&stroke=FFFFFF&ring=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="balmukundpandey407" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balmukundpandey407&background=000000&stroke=FFFFFF&ring=FFA500&currStreakLabel=FFA500&fire=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="balmukundpandey407" />
 </p>
+
 
