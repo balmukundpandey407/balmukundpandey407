@@ -30,4 +30,4 @@
  </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balmukundpandey407&" alt="balmukundpandey407" /></p>
+<p><img align="center"<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=balmukundpandey407&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true" alt="GitHub Streak" /></a>
