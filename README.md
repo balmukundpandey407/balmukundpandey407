@@ -14,6 +14,7 @@
 - C++
 - FastAPI
 - PostgreSQL
+- JWT
 - Git & GitHub
 - Docker
 
