@@ -5,13 +5,11 @@
   
 ## I'm Currently Learning
 - Python backend development
-- FastAPI
-- PostgreSQL & databases
 - DSA in cpp
   
 ## My Tech Stack 
+-  C++
 - Python
-- C++
 - FastAPI
 - PostgreSQL
 - JWT
