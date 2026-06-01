@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BAMUKUND PANDEY</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-## I’m currently working on [To-Do-API](https://github.com/balmukundpandey407/To-Do-api)
+## I’m currently working on URL_shortner
   
 ## I'm Currently Learning
 - Python backend development
@@ -15,6 +15,7 @@
 - JWT
 - Git & GitHub
 - Docker
+- Linux
 
 ## To reach me **balmukundpandey407@gmail.com**
 
