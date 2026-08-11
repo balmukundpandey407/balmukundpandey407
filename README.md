@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 ## I’m currently working on <a href="https://github.com/balmukundpandey407/biteflow_backend"> Biteflow 
-  
+<img src="https://raw.githubusercontent.com/balmukundpandey407/biteflow_backend/main/screenshots/logo.png" width="100"/>
+
+
 ## I'm Currently Learning
 - Python backend development
 - DSA in cpp
